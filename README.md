@@ -2,7 +2,7 @@
 # 👋 Hi there — I'm Soheil Isazade
 
 ## 💫 About Me
-🚀 I'm a Backend Engineer and DevOps enthusiast building robust web infrastructure and cloud-native applications.<br>
+🚀 I'm a Backend Developer and DevOps enthusiast building robust web infrastructure and cloud-native applications.<br>
 
 
 🧠 Constantly learning about:
